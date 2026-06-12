@@ -5,7 +5,7 @@ Your one-stop destination for all the documentation about building Android can b
 
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/StatiXOS/android_manifest.git -b bp4a
+repo init -u https://github.com/khargosxh18/android_manifest_statix.git -b bp4a
 ```
 ## Sync Source ##
 ```bash
