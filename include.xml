@@ -9,6 +9,11 @@
   <remote  name="statix"
            revision="bp4a"
            fetch="https://github.com/StatiXOS/" />
+  
+  <!-- GitHub (YAAP) -->
+  <remote  name="yaap"
+           revision="refs/heads/sixteen" />
+           fetch="https://github.com/yaap"
 
   <!-- GitLab -->
   <remote name="gitlab"
