@@ -12,8 +12,8 @@
   
   <!-- GitHub (YAAP) -->
   <remote  name="yaap"
-           revision="refs/heads/sixteen" />
-           fetch="https://github.com/yaap"
+           revision="refs/heads/sixteen"
+           fetch="https://github.com/yaap/" />
 
   <!-- GitLab -->
   <remote name="gitlab"
